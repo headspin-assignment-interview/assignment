@@ -1,4 +1,5 @@
-
+#include<iostream>
+#include<studio.h>
 void find ()
 {
 int i,k,n,f,a [50];
